@@ -1,0 +1,2 @@
+# github-smn
+GitHub Seminar
